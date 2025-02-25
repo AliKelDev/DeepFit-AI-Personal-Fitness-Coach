@@ -230,7 +230,7 @@ export const WorkoutProvider = ({ children }) => {
 
 ## License
 
-This project is presented for demonstration purposes. The actual codebase is proprietary and not open-source. The concepts, designs, and code snippets shared in this repository are © 2023-2024 Alikearn Studio.
+This project is presented for demonstration purposes. The actual codebase is proprietary and not open-source. The concepts, designs, and code snippets shared in this repository are © 2025 Alikearn Studio.
 
 ---
 
